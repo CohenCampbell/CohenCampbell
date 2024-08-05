@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been writing code for a year now<br>📚 I'm currently learning web development with Springboard<br>🎯 Goals: Finish school, learn how to use vim, and get a job</p>
+<p align="left">✨ I've been writing code for a year now<br>📚 I've finished a ten month bootcamp in software engineering with Springboard<br>🎯 Goals: Finish school, learn how to use vim, and get a job</p>
 
 ###
 
