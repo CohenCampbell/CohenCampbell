@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cohen Campbell, I'm a developer from New York</p>
+<p align="left">My name is Cohen Campbell, I'm a developer from New York!</p>
 
 ###
 
@@ -12,6 +12,9 @@
 
 <p align="left">✨ I've been writing code for a year now<br>📚 I've finished a ten month bootcamp in software engineering with Springboard<br>🎯 Goals: Learn and improve skills in web based frameworks</p>
 
+###
+
+<p align="left">I organized all of my Springboard repository by putting them all in a single repository. In doing so I lost the commits for 50+ repository. Please view [this](https://github.com/CohenCampbell/springboard-projects-and-exercises) repository to veiw my work over the 10 months I was learning with Springboard!</p>
 ###
 
 <h2 align="left">I code with</h2>
