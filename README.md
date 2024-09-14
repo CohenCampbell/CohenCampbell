@@ -10,11 +10,12 @@
 
 ###
 
-<p align="left">✨ I've been writing code for a year now<br>📚 I've finished a ten month bootcamp in software engineering with Springboard<br>🎯 Goals: Learn and improve skills in web based frameworks</p>
+<p align="left">✨ I've been writing code for a year now<br>📚 I've finished a ten month boot camp in software engineering with Springboard<br>🎯 Goals: Learn and improve skills in web based frameworks</p>
 
 ###
 
-<p align="left">❗ I organized all of my Springboard repository by putting them all in a single repository. In doing so I lost the commits for 50+ repository. Please view <a href="https://github.com/CohenCampbell/springboard-projects-and-exercises">this</a>      repository to veiw my work over the 10 months I was learning with Springboard!</p>
+
+❗<small style="font-size: 10px, ;"> I organized all of my Springboard repository by putting them all in a single repository. In doing so I lost the commits for 50+ repository. Please view <a href="https://github.com/CohenCampbell/springboard-projects-and-exercises">this</a> repository to view my work over the 10 months I was learning with Springboard!</small>❗
 
 ###
 
