@@ -15,7 +15,7 @@
 ###
 
 
-❗<small style="font-size: 10px, ;"> I organized all of my Springboard repository by putting them all in a single repository. In doing so I lost the commits for 50+ repository. Please view <a href="https://github.com/CohenCampbell/springboard-projects-and-exercises">this</a> repository to view my work over the 10 months I was learning with Springboard!</small>❗
+❗<small style="font-size: 10px, ;"> I organized all of my Springboard repository by putting them all in a single repository. In doing so I lost the commits for 50+ repositories. Please view <a href="https://github.com/CohenCampbell/springboard-projects-and-exercises">this</a> repository to view my work over the 10 months I was learning with Springboard!</small>❗
 
 ###
 
