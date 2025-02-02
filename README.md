@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cohen Campbell, I'm a developer from New York!</p>
+<p align="left">Hello 👋, I'm a developer from New York!</p>
 
 ###
 
